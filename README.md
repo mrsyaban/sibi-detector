@@ -1,1 +1,0 @@
-# YOLOv8 SIBI Sign Language Detector
